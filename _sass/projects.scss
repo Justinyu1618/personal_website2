@@ -8,6 +8,9 @@
     justify-content: center;
     .modal-dialog {
       max-width: 800px;
+      .modal-header {
+        padding: 2rem;
+      }
     }
     .card {
       border-radius: $rounded-borders;
@@ -45,7 +48,7 @@
 
   .project-content {
     font-size:100%;
-    padding: 20px;
+    padding: 20px 60px;
     h1, h2, h3, h4, h5 {
       // font-size: 100%;
     }

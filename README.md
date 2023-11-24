@@ -1,7 +1,7 @@
 # Personal Website
 
 Custom jekyll theme I made for my personal website. 
-
+Currently works for Ruby 3.1.3
 
 ## Installation
 Make sure to have jekyll installed. Then, navigate to the directory and run:
