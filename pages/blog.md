@@ -6,18 +6,28 @@ layout: default
 title: Blog
 permalink: /blog/
 ---
-{% for post in site.posts %}
-  <div id="post-short">
-    <a href="{{site.url}}{{site.baseurl}}{{post.url}}">
-      <h3>{{post.title}}</h3>
-    </a>
-    <i>posted on {{ post.date | date: "%-d %b %Y" }}</i>
-    <p>
-      {% if post.excerpt %}
-        {{ post.excerpt }}
-      {% else %}
-        {{ post.content }}
-      {% endif %}
-    </p>
-  </div>
+
+<div id="blog">
+<div id="page-header">
+  <p>In 2022, I started a habit of obssessively writing all of my thoughts down. <br/>
+  Here's a loose collection of what I'm thinking about</p>
+</div>
+
+<div id="post-list-container">
+  {% for post in site.posts %}
+  {% assign currentdate = post.date | date: "%Y" %}
+  {% if currentdate != date %}
+    <h4 id="y{{currentdate}}">{{ currentdate }}</h4>
+    {% assign date = currentdate %}
+    {% endif %}
+    <div id="post-li">
+      <a href="{{site.url}}{{site.baseurl}}{{post.url}}">
+        <h5>{{post.title}}</h5>
+        <i> {{ post.date | date: "%b %-d" }} | {% for category in post.categories %} #{{category}}  {% endfor %} </i>
+      </a>
+    </div>
+
 {% endfor %}
+
+</div>
+</div>

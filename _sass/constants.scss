@@ -1,6 +1,5 @@
 $rounded-borders: 5px;
 
-
 // Small tablets and large smartphones (landscape view)
 $screen-xsm-min: 476px;
 
@@ -16,6 +15,12 @@ $screen-lg-min: 992px;
 // Large tablets and desktops
 $screen-xl-min: 1200px;
 
-
-$highlight: #e17380;
+$link-base-color: #000000;
+$link-base-color-visited: #555555;
+$link-highlight-color: #e17380;
+$link-highlight-visited-color: $link-highlight-color;
 $grey: #555555;
+$font-family: "Montserrat", "Cutive Mono", serif;
+$base-font-size: 1em;
+$base-line-height-mult: 1.5;
+$base-margin-mult: 16px;

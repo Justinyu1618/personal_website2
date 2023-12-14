@@ -7,10 +7,16 @@ url: "https://justinyu.dev" # the base hostname & protocol for your site, e.g. h
 language: en
 twitter_username:
 github_username:
-disqus_username: 
+disqus_username:
 
 # Build settings
 markdown: kramdown
+
+kramdown:
+  math_engine: katex
+  syntax_highlighter_opts:
+    disable: true
+
 # theme: minima
 
 permalink: /:year/:month/:day/:title/
