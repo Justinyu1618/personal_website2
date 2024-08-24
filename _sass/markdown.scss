@@ -32,6 +32,7 @@
 
 .markdown {
   font-size: $base-font-size;
+  font-family: $alt-font-family;
   line-height: $base-line-height-mult;
 
   .container {
@@ -170,8 +171,13 @@
     color: $link-highlight-visited-color;
   }
 
+  ul {
+    padding-inline-start: 15px;
+  }
+
   ul ul {
     list-style-type: disc;
+    padding-inline-start: 40px;
   }
 
   b,

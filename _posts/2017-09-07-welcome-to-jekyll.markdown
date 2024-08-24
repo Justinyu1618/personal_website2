@@ -95,8 +95,12 @@ Strikethrough uses two tildes. ~~Scratch this.~~
 
 1. First ordered list item
    1. Ordered sublist
+      1. Deeper ordered sublist
+      1. Even deeper ordered sublist
 2. Another item
    - Unordered sublist
+   - Deeper unordered sublist
+     - Even deeper unordered sublist
 3. Actual numbers don't matter, just that it's a number
 4. And another item.
 
