@@ -9,7 +9,7 @@ Hey, I'm Justin 👋
 
 I'm currently building the future of remote work at [Gather Town](https://gather.town/){:target="blank"}!
 
-Previously, I was an ML research intern at NVIDIA working on [body pose estimation](https://developer.nvidia.com/blog/training-optimizing-2d-pose-estimation-model-with-tao-toolkit-part-1/){:target="blank"} models for health care applications (i.e patient monitoring). I also worked on computer vision and controls for chef robots at [Dexai Robotics](https://www.dexai.com/){:target="blank"}. I graduated MIT '22 studying EECS. 
+Previously, I was an ML research intern at NVIDIA working on [body pose estimation](https://developer.nvidia.com/blog/training-optimizing-2d-pose-estimation-model-with-tao-toolkit-part-1/){:target="blank"} models for health care applications (i.e patient monitoring). I also worked on computer vision and controls for chef robots at [Dexai Robotics](https://www.dexai.com/){:target="blank"}. I graduated MIT studying EECS.
 
 While at MIT, I did NLP research at [MIT CSAIL](https://www.csail.mit.edu/){:target="blank"}, working on fact verification and sim2real transfers for natural language instructions.
 
