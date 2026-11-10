@@ -62,3 +62,11 @@ permalink: /projects/
     {% endfor %}
   </div>
 </div>
+<script>
+  // Open a project's modal when linked directly, e.g. /projects/#tacit
+  $(function() {
+    if (window.location.hash) {
+      $(window.location.hash + '.modal').modal('show');
+    }
+  });
+</script>

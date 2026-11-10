@@ -15,9 +15,9 @@ I graduated MIT studying EECS, where I did NLP research at [MIT CSAIL](https://w
 
 On campus, I ran the [HackMIT Dev team](https://www.notion.so/Join-HackMIT-Dev-8484e088859640e0a0b5af1a4ddbec4d){:target="blank"}, writing and maintaining [open source](https://code.hackmit.org/){:target="blank"} web apps for organizing hackathons.
 
-In high school, I founded [my own hackathon](https://mahacks.com/){:target="blank"} in the Boston area and worked on various projects including using Google Glass to help the visually impaired. I also [advocated](https://winchester.wickedlocal.com/news/20161217/winchester-students-speak-at-massachusetts-stem-summit){:target="blank"} for entrepreneurial + STEM education and currenty serve on the board of directors for [Youth CITIES](http://youthcities.org/){:target="blank"}, an entrepreneurship education non-profit.
+I got nerd-sniped into engineering when my friends and I tried to build a [wearable device]({{site.baseurl}}/projects/#tacit) to help a blind classmate navigate the halls of our middle school. This turned into a life-long interest in wearables, healthtech, and robotics. In high school, I founded [my own hackathon](https://www.instagram.com/ma_hacks/){:target="blank"} in the Boston area, [advocated](https://winchester.wickedlocal.com/news/20161217/winchester-students-speak-at-massachusetts-stem-summit){:target="blank"} for entrepreneurial + STEM education and currently serve on the board of [Youth CITIES](http://youthcities.org/){:target="blank"}, an entrepreneurship education non-profit.
 
 I like attending hackathons for fun and I'm always working on personal projects.
 When I'm not coding, I'm probably climbing buildings, working out, playing piano, or trying to get better at [Go](https://online-go.com/player/1234735/){:target="blank"}.
 
-I also love talking to new people so come say hi: justinyu [at] alum.mit.edu
+I also love talking to new people so come say hi: justin [at] alum.mit.edu

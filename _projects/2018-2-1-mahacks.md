@@ -3,11 +3,11 @@ key: mahacks
 title: MAHacks
 description: High School Hackathon
 cover: /assets/images/portfolio/MAHacks1.jpg
-website: https://mahacks.com
+website: https://www.instagram.com/ma_hacks/
 ---
 Based in the Boston area, MAHacks is a high school hackathon I founded in 2016
 
-I wrote down some of my motivations for starting MAHacks [here](https://mahacks.com/blog/). You can also check out pictures from previous events [here](https://mahacks.com/past-events) 
+You can check out pictures from previous events [here](https://www.instagram.com/ma_hacks/){:target="blank"}
 
 ![MAHacks1](/assets/images/portfolio/MAHacks1.jpg){:class="project-img"}
 
