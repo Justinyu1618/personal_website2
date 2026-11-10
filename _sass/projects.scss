@@ -9,7 +9,8 @@
     .modal-dialog {
       max-width: 800px;
       .modal-header {
-        padding: 2rem;
+        align-items: center;
+        padding: 1.5rem 2.5rem;
       }
     }
     .card {
@@ -42,13 +43,19 @@
   }
 
   .project-img {
-    max-width: 70%;
-    margin: 30px auto;
+    display: block;
+    max-width: 80%;
+    height: auto;
+    margin: 24px auto;
+    border-radius: $rounded-borders;
   }
 
   .project-content {
     font-size:100%;
-    padding: 20px 60px;
+    line-height: 1.6;
+    text-align: left;
+    padding: 1.5rem 2.5rem 2rem;
+    overflow-wrap: break-word;
     h1, h2, h3, h4, h5 {
       // font-size: 100%;
     }
@@ -96,6 +103,29 @@
 
     a {
       text-decoration: none;
+    }
+  }
+}
+
+@media screen and (max-width: $screen-sm-min) {
+  #projects {
+    #projects-wrap .modal-dialog {
+      margin: 0.75rem;
+      .modal-header {
+        padding: 1rem 1.25rem;
+      }
+      .modal-title {
+        font-size: 1.25rem;
+      }
+    }
+
+    .project-content {
+      padding: 1rem 1.25rem 1.5rem;
+    }
+
+    .project-img {
+      max-width: 100%;
+      margin: 16px auto;
     }
   }
 }
